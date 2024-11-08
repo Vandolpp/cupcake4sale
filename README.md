@@ -1,6 +1,6 @@
 # cupcake4sale
 
-A new Flutter project.
+Projeto Integrador  em Engenharia de Software - Cruzeiro Sul Virtual
 
 ## Getting Started
 
